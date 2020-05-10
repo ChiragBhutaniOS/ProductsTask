@@ -1,5 +1,5 @@
 # ProductsTask(iOS)
-A project which shows items to deliver in a table view  
+A project which shows products in a table view  
 
 # Installation
 - To run the project :
